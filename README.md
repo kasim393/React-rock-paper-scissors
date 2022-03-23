@@ -12,6 +12,11 @@
 ## Live Preview
 [Demo](https://react-rps.netlify.app/)
 
+## Video Preview
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=lr_4OsgATiM
+" target="_blank"><img src="http://img.youtube.com/vi/lr_4OsgATiM/0.jpg" 
+alt="Demo" width="240" height="180" border="10" /></a>
 ## Build Setup
 
 ``` bash
